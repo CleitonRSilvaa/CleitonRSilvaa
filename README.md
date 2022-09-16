@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-  <h1>👾 Olá, eu sou o <strong>Cleiton !</strong></h1>
+  <h1>👾 Olá, me chamo <strong>Cleiton !</strong></h1>
 
   <h3> :man: &nbsp;Sobre mim </h3>
             
